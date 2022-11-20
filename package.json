@@ -23,7 +23,7 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "fork-ts-checker-webpack-plugin": "^7.2.13",
-    "json-schema-to-ts": "^1.5.0",
+    "json-schema-to-ts": "^2.0.0",
     "prettier": "^2.7.1",
     "serverless": "^3.0.0",
     "serverless-webpack": "^5.7.1",
